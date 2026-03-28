@@ -2504,5 +2504,565 @@
     ],
     "correctIndex": 3,
     "explanation": "Marketing success depends on building relationships with internal departments and external partners that affect customer value, not with unrelated firms that have no impact on it."
+  },
+  {
+    "id": 180,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "According to Maslow's hierarchy of needs, which need is the most basic and pressing?",
+    "options": [
+      "Esteem needs",
+      "Safety needs",
+      "Physiological needs",
+      "Self-actualization needs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Physiological needs are the most basic in Maslow's hierarchy and include essentials such as food, water, sleep, and warmth."
+  },
+  {
+    "id": 181,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following comes directly after physiological needs in Maslow's hierarchy?",
+    "options": [
+      "Social needs",
+      "Safety needs",
+      "Esteem needs",
+      "Self-actualization needs"
+    ],
+    "correctIndex": 1,
+    "explanation": "After physiological needs are met, safety needs become the next most pressing level in Maslow's hierarchy."
+  },
+  {
+    "id": 182,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A need for friendship, belonging, and affection would best be classified as ______.",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Social needs",
+      "Esteem needs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Social needs in Maslow's hierarchy include love, affection, belonging, and friendship."
+  },
+  {
+    "id": 183,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Needs related to status, recognition, and self-respect are called ______.",
+    "options": [
+      "Social needs",
+      "Esteem needs",
+      "Safety needs",
+      "Physiological needs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Esteem needs include recognition, status, prestige, and self-respect."
+  },
+  {
+    "id": 184,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "At the top of Maslow's hierarchy are ______.",
+    "options": [
+      "Esteem needs",
+      "Social needs",
+      "Self-actualization needs",
+      "Safety needs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Self-actualization refers to the drive to become what one is capable of becoming and is the highest level in Maslow's hierarchy."
+  },
+  {
+    "id": 185,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is an example of a physiological need?",
+    "options": [
+      "Job security",
+      "Recognition from peers",
+      "A sense of belonging",
+      "Food"
+    ],
+    "correctIndex": 3,
+    "explanation": "Physiological needs are basic survival needs such as food, water, shelter, and sleep."
+  },
+  {
+    "id": 186,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is an example of a safety need?",
+    "options": [
+      "Warm clothing in cold weather",
+      "Friendship",
+      "Social acceptance",
+      "Prestige"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safety needs involve protection, security, and stability. Warm clothing in cold weather relates to safety and protection."
+  },
+  {
+    "id": 187,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "People tend to interpret information in a way that supports what they already believe. This is called ______.",
+    "options": [
+      "Selective attention",
+      "Selective retention",
+      "Selective distortion",
+      "Cognitive dissonance"
+    ],
+    "correctIndex": 2,
+    "explanation": "Selective distortion is the tendency to interpret information in a way that supports preexisting beliefs."
+  },
+  {
+    "id": 188,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A person's tendency to screen out most of the information to which they are exposed is called ______.",
+    "options": [
+      "Selective attention",
+      "Selective distortion",
+      "Learning",
+      "Belief formation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Selective attention refers to the tendency to notice only a small portion of surrounding stimuli."
+  },
+  {
+    "id": 189,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "People are likely to remember good points made about a brand they favor and forget good points about competing brands. This is called ______.",
+    "options": [
+      "Selective retention",
+      "Selective attention",
+      "Selective distortion",
+      "Cognitive bias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Selective retention is the tendency to remember information that supports one's attitudes and beliefs."
+  },
+  {
+    "id": 190,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Changes in an individual's behavior arising from experience are described as ______.",
+    "options": [
+      "Perception",
+      "Learning",
+      "Lifestyle",
+      "Dissonance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Learning describes changes in behavior resulting from experience."
+  },
+  {
+    "id": 191,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is NOT one of the four major psychological factors influencing buyer behavior?",
+    "options": [
+      "Motivation",
+      "Perception",
+      "Learning",
+      "Occupation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The four major psychological factors are motivation, perception, learning, and beliefs/attitudes. Occupation is a personal factor, not a psychological one."
+  },
+  {
+    "id": 192,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A person's consistent favorable or unfavorable evaluations, feelings, and tendencies toward an object or idea are called ______.",
+    "options": [
+      "Beliefs",
+      "Attitudes",
+      "Motives",
+      "Perceptions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Attitudes describe a person's relatively consistent evaluations, feelings, and tendencies toward something."
+  },
+  {
+    "id": 193,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "An invitation to go skiing makes Donna realize that her current coat is not warm enough. This is an example of ______.",
+    "options": [
+      "Information search",
+      "Need recognition",
+      "Postpurchase behavior",
+      "Evaluation of alternatives"
+    ],
+    "correctIndex": 1,
+    "explanation": "Need recognition occurs when a buyer becomes aware of a problem or need."
+  },
+  {
+    "id": 194,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is the first stage in the buyer decision process?",
+    "options": [
+      "Information search",
+      "Purchase decision",
+      "Need recognition",
+      "Postpurchase behavior"
+    ],
+    "correctIndex": 2,
+    "explanation": "The buyer decision process begins with need recognition."
+  },
+  {
+    "id": 195,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is NOT one of the five stages in the buyer decision process?",
+    "options": [
+      "Need recognition",
+      "Information search",
+      "Conspicuous consumption",
+      "Purchase decision"
+    ],
+    "correctIndex": 2,
+    "explanation": "The five stages are need recognition, information search, evaluation of alternatives, purchase decision, and postpurchase behavior."
+  },
+  {
+    "id": 196,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "After a consumer recognizes a need, the next stage in the buyer decision process is usually ______.",
+    "options": [
+      "Postpurchase behavior",
+      "Information search",
+      "Purchase decision",
+      "Brand loyalty"
+    ],
+    "correctIndex": 1,
+    "explanation": "After need recognition, buyers typically move to information search."
+  },
+  {
+    "id": 197,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "The stage of the buyer decision process in which the consumer uses information to evaluate alternative brands is called ______.",
+    "options": [
+      "Need recognition",
+      "Evaluation of alternatives",
+      "Purchase situation",
+      "Brand recall"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaluation of alternatives is the stage where buyers compare brands and options."
+  },
+  {
+    "id": 198,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which stage occurs after the purchase decision in the buyer decision process?",
+    "options": [
+      "Postpurchase behavior",
+      "Need recognition",
+      "Selective retention",
+      "Information search"
+    ],
+    "correctIndex": 0,
+    "explanation": "After the purchase has been made, the buyer enters the postpurchase behavior stage."
+  },
+  {
+    "id": 199,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Consumers cannot easily explain all the influences on their purchases.",
+    "options": [
+      "True",
+      "False",
+      "Only for expensive products",
+      "Only for online purchases"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consumer behavior is influenced by many factors, and people often cannot fully explain all the reasons behind their purchases."
+  },
+  {
+    "id": 200,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "According to the buyer behavior model, the buyer's black box contains ______.",
+    "options": [
+      "Only social stimuli",
+      "Buyer characteristics and the buyer's decision process",
+      "Only economic and cultural stimuli",
+      "Only the marketing mix"
+    ],
+    "correctIndex": 1,
+    "explanation": "The buyer's black box contains buyer characteristics and the buyer's decision process, which lead to purchase responses."
+  },
+  {
+    "id": 201,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is one of the other stimuli in the buyer behavior model, rather than a marketing stimulus?",
+    "options": [
+      "Product",
+      "Price",
+      "Promotion",
+      "Cultural"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marketing stimuli are product, price, place, and promotion. Cultural influences are classified as other stimuli."
+  },
+  {
+    "id": 202,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which two of the following are NOT part of the classic 4 Ps?",
+    "options": [
+      "Product",
+      "Packaging",
+      "Positioning",
+      "Place"
+    ],
+    "correctIndex": 1,
+    "explanation": "Among these four options, packaging is not one of the classic 4 Ps."
+  },
+  {
+    "id": 203,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which two of the following are NOT part of the classic 4 Ps?",
+    "options": [
+      "Product",
+      "Price",
+      "Packaging",
+      "Promotion"
+    ],
+    "correctIndex": 2,
+    "explanation": "The classic 4 Ps are product, price, place, and promotion. Packaging is not one of the standard four."
+  },
+  {
+    "id": 204,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which term refers to a specific mix of human traits that may be attributed to a particular brand?",
+    "options": [
+      "Brand identity",
+      "Brand equity",
+      "Brand perception",
+      "Brand personality"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brand personality refers to the human characteristics associated with a brand."
+  },
+  {
+    "id": 205,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Independent bloggers are often relevant to marketers when they are a ______.",
+    "options": [
+      "good fit with the brand",
+      "substitute for customer research",
+      "direct replacement for ad agencies",
+      "type of price discount"
+    ],
+    "correctIndex": 0,
+    "explanation": "Influencers such as independent bloggers are useful to marketers when they are a good fit with the brand and its audience."
+  },
+  {
+    "id": 206,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "People within a reference group who influence others because of special skills, knowledge, personality, or other characteristics are called ______.",
+    "options": [
+      "Innovators",
+      "Opinion leaders",
+      "Laggards",
+      "Surrogate consumers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Opinion leaders are people whose views strongly influence others in a reference group."
+  },
+  {
+    "id": 207,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Word-of-mouth influence often comes from family, colleagues, and ______.",
+    "options": [
+      "investors",
+      "friends",
+      "manufacturers",
+      "retail chains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Word-of-mouth influence commonly comes from close social contacts such as family, colleagues, and friends."
+  },
+  {
+    "id": 208,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A person who is usually the first among friends to try new technological products most likely belongs to which adopter group?",
+    "options": [
+      "Laggards",
+      "Early majority",
+      "Innovators",
+      "Late majority"
+    ],
+    "correctIndex": 2,
+    "explanation": "Innovators are the first to adopt new products and often enjoy trying new ideas and technologies before others."
+  },
+  {
+    "id": 209,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which stage is first in the new product adoption process?",
+    "options": [
+      "Interest",
+      "Evaluation",
+      "Trial",
+      "Awareness"
+    ],
+    "correctIndex": 3,
+    "explanation": "The new product adoption process begins with awareness, when the consumer becomes aware of the product but lacks detailed information."
+  },
+  {
+    "id": 210,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following correctly reflects the order of the new product adoption process?",
+    "options": [
+      "Awareness, interest, evaluation, trial, adoption",
+      "Interest, awareness, trial, evaluation, adoption",
+      "Awareness, evaluation, interest, adoption, trial",
+      "Trial, interest, evaluation, awareness, adoption"
+    ],
+    "correctIndex": 0,
+    "explanation": "The five stages are awareness, interest, evaluation, trial, and adoption."
+  },
+  {
+    "id": 211,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A consumer who routinely buys the same low-cost grocery brand with little thought is most likely showing ______.",
+    "options": [
+      "Complex buying behavior",
+      "Habitual buying behavior",
+      "Dissonance-reducing buying behavior",
+      "Variety-seeking buying behavior"
+    ],
+    "correctIndex": 1,
+    "explanation": "Habitual buying behavior occurs under conditions of low involvement and few significant brand differences."
+  },
+  {
+    "id": 212,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A consumer making an expensive purchase with significant perceived differences among brands is most likely showing ______.",
+    "options": [
+      "Complex buying behavior",
+      "Habitual buying behavior",
+      "Variety-seeking buying behavior",
+      "Routine response behavior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Complex buying behavior occurs when consumers are highly involved and perceive significant differences among brands."
+  },
+  {
+    "id": 213,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A consumer making an expensive purchase but seeing little difference among brands is most likely exhibiting ______.",
+    "options": [
+      "Variety-seeking buying behavior",
+      "Complex buying behavior",
+      "Dissonance-reducing buying behavior",
+      "Habitual buying behavior"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dissonance-reducing buying behavior occurs when involvement is high but perceived differences among brands are small."
+  },
+  {
+    "id": 214,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Frequent brand switching in low-involvement product categories is most closely associated with ______.",
+    "options": [
+      "Habitual buying behavior",
+      "Variety-seeking buying behavior",
+      "Complex buying behavior",
+      "Dissonance reduction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Variety-seeking buying behavior involves low consumer involvement but significant brand switching for the sake of variety."
+  },
+  {
+    "id": 215,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Individuals and households that buy or acquire goods and services for personal consumption make up the ______.",
+    "options": [
+      "business market",
+      "consumer market",
+      "government market",
+      "reseller market"
+    ],
+    "correctIndex": 1,
+    "explanation": "The consumer market consists of individuals and households that buy goods and services for personal consumption."
+  },
+  {
+    "id": 216,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Consumer purchases are influenced strongly by cultural, social, personal, and ______ factors.",
+    "options": [
+      "economic",
+      "psychological",
+      "professional",
+      "medical"
+    ],
+    "correctIndex": 1,
+    "explanation": "The major influences on consumer behavior are cultural, social, personal, and psychological factors."
+  },
+  {
+    "id": 217,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is a personal factor affecting consumer behavior?",
+    "options": [
+      "Perception",
+      "Motivation",
+      "Lifestyle",
+      "Selective retention"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lifestyle is a personal factor, while perception, motivation, and selective retention are psychological concepts."
+  },
+  {
+    "id": 218,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Traditionally, who has been considered the main purchasing agent for the family in the areas of food, household products, and clothing?",
+    "options": [
+      "A teenager",
+      "The husband",
+      "The wife",
+      "The parent"
+    ],
+    "correctIndex": 2,
+    "explanation": "In traditional consumer behavior descriptions, the wife has often been identified as the main purchasing agent for food, household products, and clothing."
+  },
+  {
+    "id": 219,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Why was 'the parent' not the best answer to the traditional family purchasing-agent question?",
+    "options": [
+      "Because the question asked for a modern social ideal",
+      "Because the question was about industrial buying",
+      "Because the question asked for the traditional textbook phrasing",
+      "Because parents are never involved in household buying"
+    ],
+    "correctIndex": 2,
+    "explanation": "The question is testing the traditional wording used in consumer behavior texts, not the most modern or general interpretation."
   }
 ]
