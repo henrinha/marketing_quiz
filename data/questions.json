@@ -1874,5 +1874,635 @@
     ],
     "correctIndex": 2,
     "explanation": "The goal is to create customer value and then capture value in return through sales, loyalty, and customer equity."
+  },
+  {
+    "id": 135,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What does market segmentation mean?",
+    "options": [
+      "Choosing one product design for all buyers",
+      "Dividing a market into distinct groups of buyers with different needs, characteristics, or behaviors",
+      "Creating a slogan that appeals to all consumers",
+      "Reducing the number of competitors in a market"
+    ],
+    "correctIndex": 1,
+    "explanation": "Market segmentation means dividing a market into distinct groups of buyers who may require separate products or marketing mixes."
+  },
+  {
+    "id": 136,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What is target marketing?",
+    "options": [
+      "Dividing the market into smaller groups",
+      "Designing products for every possible customer",
+      "Selecting which segments of a population to serve",
+      "Changing prices to match competitors"
+    ],
+    "correctIndex": 2,
+    "explanation": "Target marketing is the process of evaluating each market segment's attractiveness and selecting one or more segments to enter."
+  },
+  {
+    "id": 137,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What is positioning in marketing?",
+    "options": [
+      "Selecting which market segments to serve",
+      "Arranging for a market offering to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers",
+      "Lowering prices to gain short-term sales",
+      "Distributing products through more retail stores"
+    ],
+    "correctIndex": 1,
+    "explanation": "Positioning is about making a product occupy a clear, distinctive, and desirable place in the minds of target consumers relative to competitors."
+  },
+  {
+    "id": 138,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which term refers to actually differentiating the market offering to create superior value for customers?",
+    "options": [
+      "Segmentation",
+      "Positioning",
+      "Differentiation",
+      "Exchange"
+    ],
+    "correctIndex": 2,
+    "explanation": "Differentiation means making the market offering stand apart from competitors in ways that create superior customer value."
+  },
+  {
+    "id": 139,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "The art and science of choosing target markets and building profitable relationships with them is called ______.",
+    "options": [
+      "Market offering",
+      "Marketing management",
+      "Positioning",
+      "Marketing mix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marketing management is defined as the art and science of choosing target markets and building profitable relationships with them."
+  },
+  {
+    "id": 140,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Consumer research, product development, communication, distribution, pricing, and service are all core ______ activities.",
+    "options": [
+      "Outsourcing",
+      "Production",
+      "Marketing",
+      "Positioning"
+    ],
+    "correctIndex": 2,
+    "explanation": "These are all core marketing activities because they are involved in creating, communicating, delivering, and supporting customer value."
+  },
+  {
+    "id": 141,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "A company's mission statement should primarily describe ______.",
+    "options": [
+      "Its exact quarterly earnings target",
+      "Its purpose—what it wants to accomplish in the larger environment",
+      "Its supply chain structure",
+      "Its promotional budget"
+    ],
+    "correctIndex": 1,
+    "explanation": "A mission statement documents the organization's purpose—what it wants to accomplish in the larger environment."
+  },
+  {
+    "id": 142,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which of the following best describes a good mission statement?",
+    "options": [
+      "Technology oriented and broad enough to fit any industry",
+      "Focused entirely on product features",
+      "Meaningful and specific yet motivating",
+      "Written mainly for public relations purposes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mission statements should be meaningful and specific enough to guide the organization, while also being motivating."
+  },
+  {
+    "id": 143,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "In the BCG matrix, which measure is used to indicate market attractiveness?",
+    "options": [
+      "Market growth rate",
+      "Relative market share",
+      "Customer lifetime value",
+      "Brand awareness"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the Boston Consulting Group approach, market growth rate provides a measure of market attractiveness."
+  },
+  {
+    "id": 144,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which BCG category represents products or businesses that often require heavy investments to finance rapid growth?",
+    "options": [
+      "Cash cows",
+      "Dogs",
+      "Stars",
+      "Harvest units"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stars are high-growth, high-share businesses or products that often need heavy investment to finance their rapid growth."
+  },
+  {
+    "id": 145,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which BCG category refers to low-growth, high-share businesses or products that need less investment to hold market share?",
+    "options": [
+      "Question marks",
+      "Cash cows",
+      "Dogs",
+      "Stars"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cash cows are low-growth, high-share businesses/products that require less investment and often generate substantial cash."
+  },
+  {
+    "id": 146,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "A company can ______ an SBU by selling it or phasing it out and using the resources elsewhere.",
+    "options": [
+      "Expand",
+      "Hold",
+      "Promote",
+      "Divest"
+    ],
+    "correctIndex": 3,
+    "explanation": "To divest an SBU means to sell it or phase it out so the company can use the resources elsewhere."
+  },
+  {
+    "id": 147,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which of the following is one of the classic four Ps of the marketing mix?",
+    "options": [
+      "Esteem",
+      "Place",
+      "Needs",
+      "Education"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic four Ps are product, price, place, and promotion."
+  },
+  {
+    "id": 148,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Customers most often act on ______ when purchasing products, as they judge benefits against costs.",
+    "options": [
+      "Objective value",
+      "Perceived value",
+      "Production value",
+      "Accounting value"
+    ],
+    "correctIndex": 1,
+    "explanation": "Customers act on perceived value, which is their evaluation of the difference between all the benefits and all the costs of a market offering."
+  },
+  {
+    "id": 149,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What is exchange in marketing?",
+    "options": [
+      "The act of obtaining a desired object from someone by offering something in return",
+      "The process of reducing product costs through scale",
+      "The movement of products from producer to retailer",
+      "The analysis of customer demographics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Exchange is the act of obtaining a desired object from someone by offering something in return."
+  },
+  {
+    "id": 150,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which statement is NOT an accurate description of modern marketing?",
+    "options": [
+      "Marketing is the creation of value for customers",
+      "Marketing emphasizes selling and advertising exclusively",
+      "Marketing involves satisfying customer needs",
+      "Marketing involves managing profitable customer relationships"
+    ],
+    "correctIndex": 1,
+    "explanation": "Modern marketing is much broader than selling and advertising; it focuses on creating value and building customer relationships."
+  },
+  {
+    "id": 151,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "When are sellers most effective according to the notes?",
+    "options": [
+      "When they focus mainly on price cuts",
+      "When they focus only on product specifications",
+      "When they focus more on the benefits and experiences produced by their products and services",
+      "When they focus mostly on internal cost structures"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sellers are most effective when they emphasize the benefits and experiences their products and services provide to customers."
+  },
+  {
+    "id": 152,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "A company opens many new stores to increase sales of its current products in its current markets. This is an example of ______.",
+    "options": [
+      "Market penetration",
+      "Diversification",
+      "Product development",
+      "Market segmentation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Market penetration means increasing sales of current products in current markets without changing the core market-product focus."
+  },
+  {
+    "id": 153,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "A clothing brand introducing a completely new line of fitness equipment is an example of ______.",
+    "options": [
+      "Product adaptation",
+      "Diversification",
+      "Mass customization",
+      "Niche marketing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diversification involves starting or buying businesses outside the company's current products and markets."
+  },
+  {
+    "id": 154,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which of the following is NOT a market-oriented business definition?",
+    "options": [
+      "We empower customers to realize their dreams.",
+      "We create the Hilton experience.",
+      "We bring innovation to every home.",
+      "We make high-quality consumer food products."
+    ],
+    "correctIndex": 3,
+    "explanation": "A market-oriented definition focuses on customer needs and value, while 'We make high-quality consumer food products' is product oriented."
+  },
+  {
+    "id": 155,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Selecting which segments of a population to serve is called ______.",
+    "options": [
+      "Market segmentation",
+      "Target marketing",
+      "Positioning",
+      "Differentiation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Target marketing means selecting which segments of a population or market the company wants to serve."
+  },
+  {
+    "id": 156,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What customer question is answered by a company's value proposition?",
+    "options": [
+      "How much debt does the company have?",
+      "Why should I buy your brand rather than a competitor's?",
+      "What is your firm's internal budgeting process?",
+      "How many employees work in your marketing department?"
+    ],
+    "correctIndex": 1,
+    "explanation": "A value proposition answers why a customer should choose one brand over another by explaining the value and benefits it provides."
+  },
+  {
+    "id": 157,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which term refers to the entire stream of purchases that a customer would make over a lifetime of patronage?",
+    "options": [
+      "Customer satisfaction",
+      "Customer-perceived value",
+      "Customer lifetime value",
+      "Customer advocacy score"
+    ],
+    "correctIndex": 2,
+    "explanation": "Customer lifetime value is the value of the entire stream of purchases a customer would make over a lifetime of patronage."
+  },
+  {
+    "id": 158,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What does customer equity represent?",
+    "options": [
+      "The total number of repeat buyers a company has",
+      "The combined customer lifetime values of all the company's current and potential customers",
+      "The amount spent on customer service annually",
+      "The profit made from one high-value segment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Customer equity is the total combined customer lifetime values of all the company's current and potential customers."
+  },
+  {
+    "id": 159,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Marketing is managing profitable customer relationships.",
+    "options": [
+      "True",
+      "False",
+      "Only in B2B markets",
+      "Only in service industries"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is a core definition in introductory marketing: marketing is managing profitable customer relationships."
+  },
+  {
+    "id": 160,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which marketing management orientation focuses primarily on improving production and distribution efficiency?",
+    "options": [
+      "Marketing concept",
+      "Product concept",
+      "Production concept",
+      "Selling concept"
+    ],
+    "correctIndex": 2,
+    "explanation": "The production concept holds that consumers favor available and affordable products, so management should improve production and distribution efficiency."
+  },
+  {
+    "id": 161,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which concept holds that consumers will favor products that offer the most quality, performance, and innovative features?",
+    "options": [
+      "Selling concept",
+      "Product concept",
+      "Societal marketing concept",
+      "Production concept"
+    ],
+    "correctIndex": 1,
+    "explanation": "The product concept says consumers will favor products with the most quality, performance, and innovative features."
+  },
+  {
+    "id": 162,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which concept assumes that consumers will not buy enough of the firm's products unless it undertakes a large-scale selling and promotion effort?",
+    "options": [
+      "Selling concept",
+      "Marketing concept",
+      "Product concept",
+      "Societal marketing concept"
+    ],
+    "correctIndex": 0,
+    "explanation": "The selling concept assumes consumers need to be persuaded through aggressive selling and promotion."
+  },
+  {
+    "id": 163,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "Which concept calls on marketers to deliver value in a way that maintains or improves both the consumer's and society's well-being?",
+    "options": [
+      "Societal marketing concept",
+      "Selling concept",
+      "Production concept",
+      "Exchange concept"
+    ],
+    "correctIndex": 0,
+    "explanation": "The societal marketing concept asks firms to balance company profits, consumer wants, and society's interests."
+  },
+  {
+    "id": 164,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 1",
+    "question": "What is a market offering?",
+    "options": [
+      "A list of advertising channels a firm uses",
+      "A combination of products, services, information, or experiences offered to a market to satisfy a need or want",
+      "A production quota plan",
+      "A customer complaint management system"
+    ],
+    "correctIndex": 1,
+    "explanation": "A market offering is some combination of products, services, information, or experiences offered to a market to satisfy a need or want."
+  },
+  {
+    "id": 165,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is NOT part of the company environment that influences marketing decisions?",
+    "options": [
+      "Accounting",
+      "Engineering",
+      "Manufacturing",
+      "Retailers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accounting, engineering, and manufacturing are internal company departments. Retailers are external channel members and belong to the marketing intermediaries, not the internal company environment."
+  },
+  {
+    "id": 166,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "What does the microenvironment include?",
+    "options": [
+      "Broad societal forces such as demographics and politics",
+      "Forces close to the company that affect its ability to serve customers",
+      "Only the internal departments of the company",
+      "Only competitors and suppliers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The microenvironment includes forces close to the company—such as the company itself, suppliers, intermediaries, customer markets, competitors, and publics—that affect customer service."
+  },
+  {
+    "id": 167,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is part of the macroenvironment?",
+    "options": [
+      "Suppliers",
+      "Competitors",
+      "Demographic forces",
+      "Marketing intermediaries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Demographic forces are part of the macroenvironment, which includes broad societal forces such as demographic, economic, natural, technological, political, and cultural forces."
+  },
+  {
+    "id": 168,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Suppliers are important because they ______.",
+    "options": [
+      "Develop the firm's mission statement",
+      "Provide the resources needed to produce goods and services",
+      "Buy finished products for personal use",
+      "Set government policy for the market"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suppliers provide the resources needed by the company to produce its goods and services, making them a key part of the microenvironment."
+  },
+  {
+    "id": 169,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Marketing intermediaries help the company by ______.",
+    "options": [
+      "creating public laws",
+      "financing transactions, promoting, selling, and distributing goods to final buyers",
+      "producing raw materials for manufacturing",
+      "replacing the need for customer research"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marketing intermediaries help the company promote, sell, and distribute its products to final buyers, and may also provide financing and marketing services."
+  },
+  {
+    "id": 170,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A reseller market consists of buyers who purchase goods and services in order to ______.",
+    "options": [
+      "consume them personally",
+      "use them in public service production",
+      "resell them at a profit",
+      "convert them directly into raw materials"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reseller markets consist of individuals and organizations that buy goods and services to resell them at a profit."
+  },
+  {
+    "id": 171,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Business markets buy goods and services primarily to ______.",
+    "options": [
+      "resell them to consumers",
+      "use them for further processing or business use",
+      "store them for future public use",
+      "test advertising campaigns"
+    ],
+    "correctIndex": 1,
+    "explanation": "Business markets buy goods and services for further processing or for use in their own production and operations."
+  },
+  {
+    "id": 172,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Government markets consist of government agencies that buy goods and services to ______.",
+    "options": [
+      "resell at a profit",
+      "produce public services",
+      "increase competition in retail markets",
+      "support only private companies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Government markets are made up of government units that buy goods and services in order to produce public services."
+  },
+  {
+    "id": 173,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Why must marketers pay close attention to competitors?",
+    "options": [
+      "Because customers never compare brands",
+      "Because a company must gain strategic advantage by strongly positioning its offerings against competitors",
+      "Because competitors determine the firm's mission statement",
+      "Because competitors are part of the macroenvironment only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marketers must do more than adapt to customer needs—they must also gain strategic advantage by positioning their offerings strongly against competitors' offerings."
+  },
+  {
+    "id": 174,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which statement about publics is correct?",
+    "options": [
+      "Publics have no real effect on a company's marketing ability",
+      "Publics are only government agencies",
+      "A public is any group that has an actual or potential interest in or impact on an organization's ability to achieve its objectives",
+      "Publics are identical to customer markets"
+    ],
+    "correctIndex": 2,
+    "explanation": "A public is any group that has an actual or potential interest in or impact on an organization's ability to achieve its objectives."
+  },
+  {
+    "id": 175,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following is an example of a company public?",
+    "options": [
+      "Employees and managers",
+      "Only final consumers",
+      "Only foreign governments",
+      "Only wholesalers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Company publics include internal groups such as workers, managers, volunteers, and the board of directors."
+  },
+  {
+    "id": 176,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following best describes the marketing environment?",
+    "options": [
+      "Only external forces influence marketing decisions",
+      "The actors and forces outside marketing that affect marketing management's ability to build and maintain successful relationships with customers",
+      "Only the internal accounting and finance departments",
+      "Only competitors and final consumers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The marketing environment consists of the actors and forces outside marketing that affect marketing management's ability to build and maintain successful customer relationships."
+  },
+  {
+    "id": 177,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "A company's marketing environment excludes the forces outside the marketing department that affect marketing management's ability to serve customers.",
+    "options": [
+      "True",
+      "False",
+      "Only in global markets",
+      "Only for large companies"
+    ],
+    "correctIndex": 1,
+    "explanation": "This statement is false. The marketing environment includes the forces outside the marketing department that affect the company's ability to build and maintain customer relationships."
+  },
+  {
+    "id": 178,
+    "difficulty": "Easy",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Which of the following belongs to the company's internal environment rather than the external environment?",
+    "options": [
+      "Retailers",
+      "Suppliers",
+      "Sales department",
+      "Customer markets"
+    ],
+    "correctIndex": 2,
+    "explanation": "The sales department is part of the company's internal environment, while retailers, suppliers, and customer markets are external forces."
+  },
+  {
+    "id": 179,
+    "difficulty": "Medium",
+    "category": "BLACKBOARD WEEK 2",
+    "question": "Marketing success requires building relationships with all of the following EXCEPT ______.",
+    "options": [
+      "other company departments",
+      "suppliers",
+      "marketing intermediaries",
+      "unrelated firms with no impact on customer value"
+    ],
+    "correctIndex": 3,
+    "explanation": "Marketing success depends on building relationships with internal departments and external partners that affect customer value, not with unrelated firms that have no impact on it."
   }
 ]

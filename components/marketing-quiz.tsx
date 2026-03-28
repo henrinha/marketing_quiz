@@ -10,6 +10,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import quizQuestionsData from "@/data/questions.json";
 import type { QuizDifficulty, QuizQuestion } from "@/types/quiz";
 import { cn } from "@/lib/utils";
+import { MemeBackgroundGrid, MemeModePanel } from "@/components/subway-surfers-mode";
 
 const ALL_QUESTIONS = quizQuestionsData as QuizQuestion[];
 
@@ -76,6 +77,10 @@ export default function MarketingExamQuizApp() {
   const [selected, setSelected] = useState<number | null>(null);
   const [answers, setAnswers] = useState<Record<number, number>>({});
   const [showExplanation, setShowExplanation] = useState(false);
+
+  const [memeGridMode, setMemeGridMode] = useState(true);
+  const [memeZoomPercent, setMemeZoomPercent] = useState(100);
+  const [memeCellMinPx, setMemeCellMinPx] = useState(110);
 
   const total = sessionQuestions.length;
   const question = sessionQuestions[current];
@@ -164,12 +169,32 @@ export default function MarketingExamQuizApp() {
     return acc;
   }, {});
 
+  const memePanel = (
+    <MemeModePanel
+      enabled={memeGridMode}
+      onEnabledChange={setMemeGridMode}
+      zoomPercent={memeZoomPercent}
+      onZoomPercentChange={setMemeZoomPercent}
+      cellMinPx={memeCellMinPx}
+      onCellMinPxChange={setMemeCellMinPx}
+    />
+  );
+  const memeCard = memeGridMode ? "border-0 bg-white/95 shadow-xl backdrop-blur-md supports-[backdrop-filter]:bg-white/88" : "border-0";
+
   if (phase === "finished") {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6 md:p-10">
+      <>
+        <MemeBackgroundGrid enabled={memeGridMode} zoomPercent={memeZoomPercent} cellMinPx={memeCellMinPx} />
+        {memePanel}
+        <div
+          className={cn(
+            "relative z-10 min-h-screen p-6 md:p-10",
+            memeGridMode ? "bg-transparent" : "bg-gradient-to-br from-slate-50 to-slate-100"
+          )}
+        >
         <div className="mx-auto max-w-5xl space-y-6">
           <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }}>
-            <Card className="rounded-3xl shadow-lg border-0">
+            <Card className={cn("rounded-3xl shadow-lg", memeCard)}>
               <CardHeader className="pb-4">
                 <div className="flex items-center gap-3">
                   <div className="rounded-2xl bg-slate-900 p-3 text-white">
@@ -218,7 +243,7 @@ export default function MarketingExamQuizApp() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: idx * 0.04 }}
               >
-                <Card className="rounded-3xl shadow-sm border-0">
+                <Card className={cn("rounded-3xl border-0 shadow-sm", memeCard)}>
                   <CardHeader>
                     <CardTitle className="flex items-center gap-3 text-xl">
                       <BookOpen className="h-5 w-5" /> {category}
@@ -256,16 +281,25 @@ export default function MarketingExamQuizApp() {
             ))}
           </div>
         </div>
-      </div>
+        </div>
+      </>
     );
   }
 
   if (phase === "setup") {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-100 p-6 md:p-10">
+      <>
+        <MemeBackgroundGrid enabled={memeGridMode} zoomPercent={memeZoomPercent} cellMinPx={memeCellMinPx} />
+        {memePanel}
+        <div
+          className={cn(
+            "relative z-10 min-h-screen p-6 md:p-10",
+            memeGridMode ? "bg-transparent" : "bg-gradient-to-br from-slate-50 via-white to-slate-100"
+          )}
+        >
         <div className="mx-auto max-w-lg space-y-6">
           <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-            <Card className="rounded-3xl border-0 shadow-lg">
+            <Card className={cn("rounded-3xl border-0 shadow-lg", memeCard)}>
               <CardHeader className="space-y-2">
                 <CardTitle className="text-2xl">Lag din quiz</CardTitle>
                 <CardDescription>
@@ -352,15 +386,24 @@ export default function MarketingExamQuizApp() {
             </Card>
           </motion.div>
         </div>
-      </div>
+        </div>
+      </>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-100 p-6 md:p-10">
+    <>
+      <MemeBackgroundGrid enabled={memeGridMode} zoomPercent={memeZoomPercent} cellMinPx={memeCellMinPx} />
+      {memePanel}
+      <div
+        className={cn(
+          "relative z-10 min-h-screen p-6 md:p-10",
+          memeGridMode ? "bg-transparent" : "bg-gradient-to-br from-slate-50 via-white to-slate-100"
+        )}
+      >
       <div className="mx-auto max-w-4xl space-y-6">
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          <Card className="rounded-3xl border-0 shadow-lg">
+          <Card className={cn("rounded-3xl border-0 shadow-lg", memeCard)}>
             <CardHeader className="space-y-4">
               <div className="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
                 <div>
@@ -390,7 +433,12 @@ export default function MarketingExamQuizApp() {
         </motion.div>
 
         {total === 0 ? (
-          <Card className="rounded-3xl border border-dashed border-slate-300 bg-white/80 shadow-sm">
+          <Card
+            className={cn(
+              "rounded-3xl border border-dashed border-slate-300 shadow-sm",
+              memeGridMode ? memeCard : "bg-white/80"
+            )}
+          >
             <CardContent className="py-12 text-center">
               <p className="text-slate-600">Ingen spørsmål i økten.</p>
               <Button className="mt-4 rounded-2xl" onClick={backToSetup}>
@@ -407,7 +455,7 @@ export default function MarketingExamQuizApp() {
               exit={{ opacity: 0, y: -16 }}
               transition={{ duration: 0.2 }}
             >
-              <Card className="rounded-3xl border-0 shadow-lg">
+              <Card className={cn("rounded-3xl border-0 shadow-lg", memeCard)}>
                 <CardHeader className="space-y-4">
                   <div className="flex flex-wrap items-center gap-2">
                     <Badge variant="outline">
@@ -474,6 +522,7 @@ export default function MarketingExamQuizApp() {
           </AnimatePresence>
         ) : null}
       </div>
-    </div>
+      </div>
+    </>
   );
 }
