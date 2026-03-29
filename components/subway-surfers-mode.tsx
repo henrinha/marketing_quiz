@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useMemo, useState } from "react";
-import { TrainFront } from "lucide-react";
+import { TrainFront, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 /** Subway Surfers (Giphy – klassiske media-URL-er) */
@@ -68,6 +68,27 @@ export function MemeModePanel({
   cellMinPx: number;
   onCellMinPxChange: (v: number) => void;
 }) {
+  const [panelCollapsed, setPanelCollapsed] = useState(false);
+
+  if (panelCollapsed) {
+    return (
+      <button
+        type="button"
+        onClick={() => setPanelCollapsed(false)}
+        title="Vis meme-rutenett"
+        aria-label="Vis meme-rutenett-innstillinger"
+        className={cn(
+          "fixed left-4 top-4 z-[200] flex h-12 w-12 items-center justify-center rounded-2xl border shadow-lg transition hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2",
+          enabled
+            ? "border-amber-400/90 bg-gradient-to-br from-amber-100 to-orange-100"
+            : "border-slate-200 bg-white/95"
+        )}
+      >
+        <TrainFront className={cn("h-6 w-6", enabled ? "text-amber-700" : "text-slate-600")} aria-hidden />
+      </button>
+    );
+  }
+
   return (
     <div
       className={cn(
@@ -77,12 +98,23 @@ export function MemeModePanel({
           : "border-slate-200 bg-white/95"
       )}
     >
-      <div className="flex items-center justify-between gap-3">
-        <div className="flex items-center gap-2">
+      <div className="flex items-center justify-between gap-2">
+        <div className="flex min-w-0 items-center gap-2">
           <TrainFront className={cn("h-4 w-4 shrink-0", enabled ? "text-amber-700" : "text-slate-500")} aria-hidden />
           <span className="text-sm font-semibold leading-tight text-slate-900">Meme-rutenett</span>
         </div>
-        <MemeSwitch checked={enabled} onCheckedChange={onEnabledChange} />
+        <div className="flex shrink-0 items-center gap-1.5">
+          <MemeSwitch checked={enabled} onCheckedChange={onEnabledChange} />
+          <button
+            type="button"
+            onClick={() => setPanelCollapsed(true)}
+            title="Skjul panel"
+            aria-label="Skjul meme-rutenett-panel"
+            className="flex h-8 w-8 items-center justify-center rounded-lg text-slate-500 transition hover:bg-black/5 hover:text-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400"
+          >
+            <X className="h-4 w-4" strokeWidth={2.5} />
+          </button>
+        </div>
       </div>
       <p className="text-xs leading-snug text-slate-600">
         Subway Surfers + Minecraft parkour i rutenett bak quizen. Juster zoom og cellestørrelse under.
